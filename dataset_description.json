@@ -1,0 +1,17 @@
+{
+    "LORISScriptVersion": "0.1",
+    "LORISReleaseVersion": "21.0.0",
+    "BIDSVersion": "1.1.1 & BEP0001",
+    "Name": "CBIG_BIDS_2021_01",
+    "Authors": [
+        "Ted Fon",
+        "Oury Monchi",
+        "Alain Dagher",
+        "Jason Karamchandani",
+        "Clotilde Degroot",
+        "Samir Das",
+        "Zaliqa Rosli",
+        "Cecile Madjar",
+        "Rida Abou-Haidar"
+    ]
+}

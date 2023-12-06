@@ -1,0 +1,15 @@
+The Neuro’s C-BIG Repository is an Open Science collection of biological samples,
+clinical information, imaging, and genetic data from patients with neurological
+disease as well as from healthy control subjects.
+
+Data and samples collected in the C-BIG Repository will be made available to
+research teams with scientifically and ethically valid proposals around the world,
+congruent with Open Science principles.
+
+This BIDS dataset is the collection of images present in the C-BIG Repository.
+
+For support, please contact cbig_support.mni@mcgill.ca. More details can also be found at:
+
+- https://cbigr-open.loris.ca
+- https://www.mcgill.ca/neuro/open-science
+
