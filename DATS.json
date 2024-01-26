@@ -1,0 +1,214 @@
+{
+  "title": "Parkinson's Disease - MRI dataset (PD-MRI)",
+  "description": "82 Parkinson's Disease affected individuals with imaging and neuropsychology evaluation tests were recruited at The Montreal Neurological Institute and Hospital. ",
+  "creators": [
+    {
+      "name": "The Montreal Neurological Institute and Hospital's C-BIG Repository",
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "http://uri.interlex.org/base/ilx_0779748"
+      }
+    },
+    {
+      "information": {
+        "value": "http://uri.interlex.org/base/ilx_0107162"
+      }
+    },
+    {
+      "information": {
+        "value": "http://uri.interlex.org/base/ilx_0100026"
+      }
+    },
+    {
+      "information": {
+        "value": "http://uri.interlex.org/base/ilx_0737724"
+      }
+    },
+    {
+      "information": {
+        "value": "http://uri.interlex.org/base/ilx_0111447"
+      }
+    },
+    {
+      "information": {
+        "value": "http://uri.interlex.org/base/ilx_0739353"
+      }
+    },
+    {
+      "information": {
+        "value": "http://uri.interlex.org/base/ilx_0780238"
+      }
+    },
+    {
+      "information": {
+        "value": "http://uri.interlex.org/base/ilx_0778596"
+      }
+    },
+    {
+      "information": {
+        "value": "http://uri.interlex.org/base/ilx_0489644"
+      }
+    },
+    {
+      "information": {
+        "value": "http://uri.interlex.org/base/ilx_0112175"
+      }
+    },
+    {
+      "information": {
+        "value": " Montreal Cognitive Assessment"
+      }
+    },
+    {
+      "information": {
+        "value": " Hopkins Verbal Learning Test"
+      }
+    },
+    {
+      "information": {
+        "value": " Boston Naming Test"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "controlled",
+  "licenses": [
+    {
+      "name": "CC BY"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "JSON",
+        "NIfTI",
+        "MNC"
+      ],
+      "size": 47,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://mcgill-my.sharepoint.com/:t:/r/personal/nicolas_ferry_mcgill_ca/Documents/Desktop/CBIG/CONP/README_C-BIG_PD-MRI.md?csf=1&web=1&e=KnqnCu",
+        "authorizations": [
+          {
+            "value": "registered"
+          }
+        ]
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "value": "Parkinson's Disease"
+    },
+    {
+      "value": "MRI"
+    },
+    {
+      "value": "Imaging"
+    },
+    {
+      "value": "Cognitive assessment"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "82"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "2624"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "The Montreal Neurological Institute and Hospital"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Montreal"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Quebec"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "https://www.mcgill.ca/neuro/files/neuro/c-big_portal_graphic_portal_button_500x281.png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "The Neuro's C-BIG Repository, cbig.mni@mcgill.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
